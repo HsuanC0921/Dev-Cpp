@@ -89,7 +89,7 @@ type
       (CPID: 932; CPName: 'shift_jis'; CPLang: 'Japanese';),
       (CPID: 936; CPName: 'gb2312'; CPLang: 'Chinese';),
       (CPID: 949; CPName: 'ks_c_5601-1987'; CPLang: 'Korean';),
-      (CPID: 950; CPName: 'big5'; CPLang: 'TC_Chinese';),
+      (CPID: 950; CPName: 'big5'; CPLang: 'Chinese_TC';),
       //(CPID: 1026; CPName: 'IBM1026'),
       //(CPID: 1047; CPName: 'IBM01047'),
       //(CPID: 1140; CPName: 'IBM01140'),
